@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Lenofin+%F0%9F%91%8B;QA+Engineer+%7C+Java+%7C+Python+Developer;Transitioning+into+AI%2FML+Engineering+%F0%9F%A4%96;Open+to+exciting+opportunities!+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Lenofin+%F0%9F%91%8B;Software+Engineer+%7C+Java+%7C+Python+Developer;Transitioning+into+AI%2FML+Engineering+%F0%9F%A4%96;Open+to+exciting+opportunities!+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 ---
@@ -26,9 +26,12 @@ class SahayaLenofin:
     linkedin    = "linkedin.com/in/sahaya-lenofin-s-17a48420a"
     github      = "github.com/SahayaLenofinS"
 
-    role        = "Analyst @ Wipro"
+    role        = "Software Engineer @ TCS"
     degree      = "B.E. Computer Science & Engineering"
     college     = "St Joseph's Institute of Technology"
+    pursing     = "M.Tech. AI/ML Engineering"
+    college     = "BITS PILANI"
+
 
     stack       = ["Java", "Python", "SQL", "HTML", "CSS", "JavaScript"]
 
