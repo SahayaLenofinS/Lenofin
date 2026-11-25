@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahaya%20Lenofin%20Sahayam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Building%20Smarter%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahaya%20Lenofin%20Sahayam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Building%20Smarter%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SahayaLenofinS&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
